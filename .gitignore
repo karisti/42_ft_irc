@@ -3,6 +3,7 @@ ircserv
 objs
 .DS_Store
 .vscode/*
+README1.md
 
 # Prerequisites
 *.d
