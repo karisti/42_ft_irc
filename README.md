@@ -1,6 +1,6 @@
 # 42_ft_irc
 
-![Demo image](https://github.com/karisti/42_ft_irc/blob/master/demo1.png?raw=true)
+[![Demo image](https://i.gyazo.com/175f5e05408824fa0f46a7feccb27697.gif)](https://gyazo.com/175f5e05408824fa0f46a7feccb27697)
 
 
 ## Description
